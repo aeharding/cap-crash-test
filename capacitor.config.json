@@ -1,0 +1,11 @@
+{
+  "appId": "cap.crash.app",
+  "appName": "crash-test",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">crash-test</string>
+    <string name="title_activity_main">crash-test</string>
+    <string name="package_name">cap.crash.app</string>
+    <string name="custom_url_scheme">cap.crash.app</string>
+</resources>
